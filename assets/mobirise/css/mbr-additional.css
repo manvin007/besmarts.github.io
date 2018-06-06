@@ -4148,7 +4148,7 @@ body {
 }
 .cid-qUaj33NsGW {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qUaj33NsGW .mbr-section-subtitle {
@@ -4224,6 +4224,9 @@ body {
     width: 100% !important;
     margin-left: 0 !important;
   }
+}
+.cid-qUaj33NsGW .body-item {
+  text-align: left;
 }
 .cid-qU6Oroh2Fq {
   padding-top: 15px;
