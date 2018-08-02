@@ -10228,6 +10228,18 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qZxK9H19C5 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ece1f7;
+  background: linear-gradient(45deg, #ece1f7, #553e69);
+}
+.cid-qZxK9H19C5 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-qZxK9H19C5 .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-qTCskQDoeK .navbar {
   padding: .5rem 0;
   background: #553e69;
