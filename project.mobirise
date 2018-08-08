@@ -3987,8 +3987,8 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/be-smarts-written-690x241.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/besmarts-210x241.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -4004,8 +4004,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/transparentlogoii-1-1080x926.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/transparentlogoii-250x300.png",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
